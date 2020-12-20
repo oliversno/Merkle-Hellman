@@ -2,5 +2,4 @@
 
 Merkle-Hellman is an early public-key cryptography system based the subset-sum problem (which is a special case of the general knapsack problem). It was borken in 1984 by Adi Shamir.
 
-# Key Genetaion
-1. Pick a block size $n$
+The algorithms is listed at https://en.wikipedia.org/wiki/Merkle%E2%80%93Hellman_knapsack_cryptosystem
